@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/olliketonen/precache-manifest.4aecff012b0fe992d9f5949d18d2a185.js"
+  "/olliketonen/precache-manifest.2aaf6a071b92a0639c80096b884be0ae.js"
 );
 
 self.addEventListener('message', (event) => {

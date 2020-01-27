@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/olliketonen/static/css/main.3d869ff9.chunk.css",
+    "main.css": "/olliketonen/static/css/main.fddc9a8e.chunk.css",
     "main.js": "/olliketonen/static/js/main.b2cbb9c0.chunk.js",
     "main.js.map": "/olliketonen/static/js/main.b2cbb9c0.chunk.js.map",
     "runtime-main.js": "/olliketonen/static/js/runtime-main.a96f79c6.js",
@@ -8,15 +8,15 @@
     "static/js/2.4aa176bf.chunk.js": "/olliketonen/static/js/2.4aa176bf.chunk.js",
     "static/js/2.4aa176bf.chunk.js.map": "/olliketonen/static/js/2.4aa176bf.chunk.js.map",
     "index.html": "/olliketonen/index.html",
-    "precache-manifest.4aecff012b0fe992d9f5949d18d2a185.js": "/olliketonen/precache-manifest.4aecff012b0fe992d9f5949d18d2a185.js",
+    "precache-manifest.2aaf6a071b92a0639c80096b884be0ae.js": "/olliketonen/precache-manifest.2aaf6a071b92a0639c80096b884be0ae.js",
     "service-worker.js": "/olliketonen/service-worker.js",
-    "static/css/main.3d869ff9.chunk.css.map": "/olliketonen/static/css/main.3d869ff9.chunk.css.map",
+    "static/css/main.fddc9a8e.chunk.css.map": "/olliketonen/static/css/main.fddc9a8e.chunk.css.map",
     "static/js/2.4aa176bf.chunk.js.LICENSE": "/olliketonen/static/js/2.4aa176bf.chunk.js.LICENSE"
   },
   "entrypoints": [
     "static/js/runtime-main.a96f79c6.js",
     "static/js/2.4aa176bf.chunk.js",
-    "static/css/main.3d869ff9.chunk.css",
+    "static/css/main.fddc9a8e.chunk.css",
     "static/js/main.b2cbb9c0.chunk.js"
   ]
 }
