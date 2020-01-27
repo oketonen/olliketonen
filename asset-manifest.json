@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/olliketonen/static/css/main.fddc9a8e.chunk.css",
-    "main.js": "/olliketonen/static/js/main.b2cbb9c0.chunk.js",
-    "main.js.map": "/olliketonen/static/js/main.b2cbb9c0.chunk.js.map",
+    "main.css": "/olliketonen/static/css/main.9ae6bb3d.chunk.css",
+    "main.js": "/olliketonen/static/js/main.1e92d571.chunk.js",
+    "main.js.map": "/olliketonen/static/js/main.1e92d571.chunk.js.map",
     "runtime-main.js": "/olliketonen/static/js/runtime-main.a96f79c6.js",
     "runtime-main.js.map": "/olliketonen/static/js/runtime-main.a96f79c6.js.map",
-    "static/js/2.4aa176bf.chunk.js": "/olliketonen/static/js/2.4aa176bf.chunk.js",
-    "static/js/2.4aa176bf.chunk.js.map": "/olliketonen/static/js/2.4aa176bf.chunk.js.map",
+    "static/js/2.5c94dd5b.chunk.js": "/olliketonen/static/js/2.5c94dd5b.chunk.js",
+    "static/js/2.5c94dd5b.chunk.js.map": "/olliketonen/static/js/2.5c94dd5b.chunk.js.map",
     "index.html": "/olliketonen/index.html",
-    "precache-manifest.2aaf6a071b92a0639c80096b884be0ae.js": "/olliketonen/precache-manifest.2aaf6a071b92a0639c80096b884be0ae.js",
+    "precache-manifest.50483d7dcb352ade562649e384ec28ba.js": "/olliketonen/precache-manifest.50483d7dcb352ade562649e384ec28ba.js",
     "service-worker.js": "/olliketonen/service-worker.js",
-    "static/css/main.fddc9a8e.chunk.css.map": "/olliketonen/static/css/main.fddc9a8e.chunk.css.map",
-    "static/js/2.4aa176bf.chunk.js.LICENSE": "/olliketonen/static/js/2.4aa176bf.chunk.js.LICENSE"
+    "static/css/main.9ae6bb3d.chunk.css.map": "/olliketonen/static/css/main.9ae6bb3d.chunk.css.map",
+    "static/js/2.5c94dd5b.chunk.js.LICENSE": "/olliketonen/static/js/2.5c94dd5b.chunk.js.LICENSE"
   },
   "entrypoints": [
     "static/js/runtime-main.a96f79c6.js",
-    "static/js/2.4aa176bf.chunk.js",
-    "static/css/main.fddc9a8e.chunk.css",
-    "static/js/main.b2cbb9c0.chunk.js"
+    "static/js/2.5c94dd5b.chunk.js",
+    "static/css/main.9ae6bb3d.chunk.css",
+    "static/js/main.1e92d571.chunk.js"
   ]
 }
