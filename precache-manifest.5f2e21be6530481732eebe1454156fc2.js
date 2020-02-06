@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "61bebf0a59af4e346c36a4894aface1f",
+    "revision": "508cdd39725bf2450088ad363e1876b5",
     "url": "/olliketonen/index.html"
   },
   {
-    "revision": "1a3cc8a7621210c9de06",
-    "url": "/olliketonen/static/css/main.8e6518ad.chunk.css"
+    "revision": "8b32c04c2dc447631e6b",
+    "url": "/olliketonen/static/css/main.65f726b2.chunk.css"
   },
   {
     "revision": "70109534878a1ee23c3d",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/olliketonen/static/js/2.7903f0b1.chunk.js.LICENSE"
   },
   {
-    "revision": "1a3cc8a7621210c9de06",
-    "url": "/olliketonen/static/js/main.9cd0b579.chunk.js"
+    "revision": "8b32c04c2dc447631e6b",
+    "url": "/olliketonen/static/js/main.28157cad.chunk.js"
   },
   {
     "revision": "b4717bf6192908597e46",
